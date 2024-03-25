@@ -1,2 +1,2 @@
-# Data-Science
-R and Python projects with data files
+# World Bird List
+R programs for updating and analyzing world bird list, and creating csv and xlsx output.
